@@ -4,7 +4,7 @@ Azure functions es un recurso de Azure sin servidor, que se utiliza cuando debe 
 
 El cobro de Azure Functios es por evento y tamaño del evento.
 
-![Azure Functions Logo](https://github.com/lupitaBI06/AzureFunctions/logo.png)
+![Azure Functions Logo](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/logo.png)
 
 **¿Qué es informática sin Servidor?**
 
