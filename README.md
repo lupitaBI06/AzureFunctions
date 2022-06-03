@@ -23,4 +23,38 @@ La informática sin servidor incluye la abstracción de servidores, un escalado 
 
 ![Buscar Azure Functions](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/buscar_functions.PNG)
 
+-Se le da en crear nuevo reecurso y se llenan los requerimeintos necesarios. 
 
+![requerimientos](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/requerimientos.PNG)
+
+- Una ves llenados los campos necesarios se revisa y crea el recurso. Una ves que este se crea entramos al recurso y dentro del recurso nos vamos a funciones.
+
+![ir a funciones](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/ir_a_funciones.PNG)
+
+- Dentro de funciones damos clic en crear función. Aquí seleccionamos una plantilla y damos en crear.
+
+![funcioness](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/ir_a_funciones.PNG)
+
+- En este caso se crea una función tipo HTTP trigger. Dentro de esa función damos clic en codigo y prueba. 
+
+![boton codigo prueba](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/codigo_prueba.PNG)
+
+- En este apartado se muestra un código de ejemplo.
+
+![codigo](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/codigo.PNG)
+
+- Podemos probar y ejecutar el código, si modificamos la entrada "name" nos arroja un mesaje despues de dar en ejecutar.
+
+![probar y ejecutar](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/probaryejecutar.PNG)
+
+Resultado
+
+![resulatdo](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/ejecucion.PNG)
+
+- El código se puede editar a nuestras necesidades, se muestra un ejemplo muy simple de como editarlo, una ves editado se le da en guardar.
+
+![editar](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/editar.PNG)
+
+- Se vuelve a ejecutar el código para ver que se haya modificado correctamente.
+
+![nueva ejecucion](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/nueva_ejecucion.PNG)
