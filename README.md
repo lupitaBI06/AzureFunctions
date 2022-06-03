@@ -19,3 +19,8 @@ La informática sin servidor incluye la abstracción de servidores, un escalado 
 
 ### Pasos para crear un recurso Azure Functions
 
+- Dentro del [portal de azure](www.portal.azure.com) se busca el recurso Aplicación de funciones.
+
+![Buscar Azure Functions](https://github.com/lupitaBI06/AzureFunctions/blob/main/imagenes/buscar_functions.PNG)
+
+
